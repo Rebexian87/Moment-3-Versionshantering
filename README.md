@@ -5,7 +5,7 @@ Jag ska skapa en README-fil och göra ett repository publikt. Jag ska även gör
 ### Jag har bland annat gjort följande saker:
 * Denna README-fil.
 * Personlig README-fil.
-* Lärt oss att skapa repositorys, **__privata och publika__**. 
+* Lärt oss att skapa repositorys, **_privata och publika_**. 
 * Publicerat till GITHUB och gjort repositorys. Repositoryt vi gör nu _behöver vara publikt så att lärarna kan se det_. 
 * Lärt oss grundläggande kommandon i Git
 * Börjat lite med att hantera filer i Git.
