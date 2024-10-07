@@ -11,3 +11,9 @@ Jag ska skapa en README-fil och göra ett repository publikt. Jag ska även gör
 * Börjat lite med att hantera filer i Git.
 * Lärt oss en del om markdowns.
 * Börjat använda Github.
+* Lärt oss hur man gör en enkel tabell med markdown, se exempel nedan.
+
+##### Exempel på tabell
+Kolumn 1|Kolumn 2|Kolumn 3
+---|---|---
+Text 1|Text 2|Text 3
